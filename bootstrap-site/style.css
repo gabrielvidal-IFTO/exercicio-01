@@ -1,0 +1,13 @@
+.container-main {
+
+display: flex;
+margin: auto;
+
+}
+.fundo {
+    background-color:gainsboro
+}
+.btn-color {
+    background-color: gray;
+    border: 0px;
+}
